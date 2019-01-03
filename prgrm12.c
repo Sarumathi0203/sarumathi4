@@ -11,11 +11,11 @@ revint=revint*10+remainder;
 n/=10;
 if(origint==revint)
 {
-printf("%d is a palindrome.",origint);
+printf("es!%d is a palindrome.",origint);
 }
 else
 {
-printf("%d is not a palindrome.",origint);
+printf("no!%d is not a palindrome.",origint);
 }
 return 0;
 }
